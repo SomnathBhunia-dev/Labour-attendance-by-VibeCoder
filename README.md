@@ -10,11 +10,11 @@
 > A modern, mobile-first web application for contractors to manage labour attendance, track work sites, monitor team performance, and visualize financial insights — all in real-time.
 
 <p align="center">
-  <a href="[https://labour-attendance-by-vibe-coder.vercel.app]https://attendance-of-labour-by-vibecoding.vercel.app" target="_blank">
+  <a href="https://attendance-of-labour-by-vibecoding.vercel.app/signin" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-blue?style=for-the-badge" alt="Live Demo" />
   </a>
   &nbsp;
-  <a href="[https://github.com/SomnathBhunia-dev/Labour-attendance-by-VibeCoder](https://github.com/SomnathBhunia-dev/Labour-attendance-by-VibeCoder)" target="_blank">
+  <a href="https://github.com/SomnathBhunia-dev/Labour-attendance-by-VibeCoder" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
