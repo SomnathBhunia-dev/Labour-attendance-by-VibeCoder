@@ -13,10 +13,10 @@ export default function AuthWrapper({ children }) {
   useEffect(() => {
     if (loading) return;
 
-    if (!isAuthenticated && pathname !== "/signin") {
+    if (!isAuthenticated && pathname !== "/signin" && pathname !== "/") {
       router.push("/signin");
     } else if (isAuthenticated && pathname === "/signin") {
-      router.push("/");
+      router.push("/dashboard");
     }
   }, [isAuthenticated, loading, pathname, router]);
 
