@@ -19,8 +19,6 @@
   </a>
 </p>
 
-> **📌 Note:** If the live link above doesn't work yet, deploy this project to [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme) by importing the GitHub repo, then update the URL above.
-
 ---
 
 ## 📋 Table of Contents

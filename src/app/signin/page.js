@@ -124,6 +124,9 @@ export default function SignIn() {
                   disabled={loading}
                 />
               </div>
+              <p className="text-xs text-blue-600 font-medium mt-2 bg-blue-50 p-2 rounded-lg border border-blue-100">
+                * This is a demo project. Please use this default mobile number to login: <span className="font-bold text-blue-800">77889 95544</span>
+              </p>
             </div>
             <button
               type="submit"
@@ -153,6 +156,9 @@ export default function SignIn() {
               <p className="text-xs text-gray-500 mt-2">
                 An OTP has been sent to {mobileNumber}.
               </p>
+              <p className="text-xs text-blue-600 font-medium mt-2 bg-blue-50 p-2 rounded-lg border border-blue-100">
+                * This is a universal OTP for this demo, please use: <span className="font-bold text-blue-800">789456</span>
+              </p>
             </div>
             <button
               type="submit"
@@ -171,9 +177,6 @@ export default function SignIn() {
           </form>
         )}
       </div>
-      <p className="text-center text-sm text-gray-500 mt-8">
-        Enter the OTP sent to your mobile number.
-      </p>
     </div>
   );
 }
